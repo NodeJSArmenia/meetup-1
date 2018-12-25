@@ -10,4 +10,6 @@ Slide: [Deploying Node.js app in production](https://slides.com/nairihar/nodejs-
 # Artak Vardanyan [artakvg](https://github.com/artakvg)
 Slide: REST should go and rest, welcome Wirentity
 
+See **kahoot quiz** questions and results **[here](https://github.com/NodeJSArmenia/meetup-1/tree/master/kahoot_quiz)**
+
 Videos comming soon...
