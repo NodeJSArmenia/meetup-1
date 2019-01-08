@@ -10,7 +10,7 @@ Video: https://youtu.be/ALEysqMsgcg
 Slide: [Deploying Node.js app in production](https://slides.com/nairihar/nodejs-meetup-1#/)
 
 # Artak Vardanyan [artakvg](https://github.com/artakvg)
-Slide: REST should go and rest, welcome Wirentity
+Slide: [REST should go and rest, welcome Wirentity](https://drive.google.com/file/d/1bZOi2LBGlI43W8XK3L-_pS_8xlog5v4Z/view?usp=sharing)
 
 Video: https://www.youtube.com/watch?v=VSvP6ptbsto
 
